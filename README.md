@@ -5,41 +5,52 @@ Protein_classification.ipynb python notebook is calculating frequency of protein
 
 ###
 E. coli	        up000000625	Prokaryote	https://www.uniprot.org/proteomes/UP000000625
+###
 H. pylori	up000000429	Prokaryote	https://www.uniprot.org/proteomes/UP000000625
+###
 B. subtilis	up000001570	Prokaryote	https://www.uniprot.org/proteomes/UP000001570
+###
 D. discoideum	up000002195	Eukaryote	https://www.uniprot.org/proteomes/UP000002195
+###
 S. cerevisiae	up000002311	Eukaryote	https://www.uniprot.org/proteomes/UP000002311
+###
 D. melanogaster	up000000803	Eukaryote	https://www.uniprot.org/proteomes/UP000000803
+###
 M. musculus	up000000589	Eukaryote	https://www.uniprot.org/proteomes/UP000000589
+###
 D. rerio	up000000437	Eukaryote	https://www.uniprot.org/proteomes/UP000000437
+###
 H. sapiens	up000005640	Eukaryote   	https://www.uniprot.org/proteomes/UP000005640
+###
 
 Based on GO classification as defined
 
+###
 Molecular function	GO:0003674
-  catalytic	GO:0003824		
-  transporter	GO:0005215		
-  binding	GO:0005488		
-  transcription regulator	GO:0140110		
-
+*catalytic	GO:0003824		
+*transporter	GO:0005215		
+*binding	GO:0005488		
+*transcription regulator	GO:0140110		
+###
 Cellular Component	GO:0005575
-  membrane part	GO:0044425		
-  cell part	GO:0044464
-  intrinsic component of membrane	GO:0031224
-  periplasmic space	GO:0042597
-  plasma membrane	GO:0005886
-  cytosol	GO:0005829
-  
+*membrane part	GO:0044425		
+*cell part	GO:0044464
+*intrinsic component of membrane	GO:0031224
+*periplasmic space	GO:0042597
+*plasma membrane	GO:0005886
+*cytosol	GO:0005829
+ 
+###
 Biological process	GO:0008150
-  cellular component organization	GO:0071840		
-  response to stimulus	GO:0050896		
-  localization	GO:0051179
-  biological regulation	GO:0065007		
-  metabolic process	GO:0008152
-  nitrogen compound	GO:0006807
-  catabolic process	GO:0009056
-  biosynthetic process	GO:0009058
-  oxidation-reduction process	GO:0055114
+*cellular component organization	GO:0071840		
+*response to stimulus	GO:0050896		
+*localization	GO:0051179
+*biological regulation	GO:0065007		
+*metabolic process	GO:0008152
+*nitrogen compound	GO:0006807
+*catabolic process	GO:0009056
+*biosynthetic process	GO:0009058
+*oxidation-reduction process	GO:0055114
 
 To reproduce calculation, all repository including the data files need to be downloaded. Jupiter Notebook free access software needs to be installed to run the Protein_classification.ipynb file.
 
