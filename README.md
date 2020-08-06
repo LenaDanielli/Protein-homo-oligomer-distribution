@@ -2,8 +2,8 @@
 
 ## Supplementary Method S1: Protein-homo-oligomer distribution calculation
 Protein_classification.ipynb python notebook is calculating frequency of proteins with different subunits number for nine organisms’ whole proteomes as listed:
-Name	          ID 	        Type	      Link
-E. coli	        up000000625	Prokaryote	https://www.uniprot.org/proteomes/UP000000625
+|Name	          |ID 	        |Type	      |Link     |
+|E. coli	        up000000625	Prokaryote	https://www.uniprot.org/proteomes/UP000000625
 H. pylori	up000000429	Prokaryote	https://www.uniprot.org/proteomes/UP000000625
 B. subtilis	up000001570	Prokaryote	https://www.uniprot.org/proteomes/UP000001570
 D. discoideum	up000002195	Eukaryote	https://www.uniprot.org/proteomes/UP000002195
