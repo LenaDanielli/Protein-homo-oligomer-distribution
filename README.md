@@ -57,27 +57,27 @@ To reproduce calculation, all repository including the data files need to be dow
 ## Supplementary Method S2: Protein-homo-oligomer abundance distribution calculation
 Protein_classification_abundance.ipynb python notebook calculates the abundance distribution of proteins with different subunits number for eight organisms as listed:
 
-Name	        ID 	  Coverage	Score	  File
-E. coli         137	  99	      23.08	  511145-WHOLE_ORGANISM-integrated.txt
-M. tuberculosis	253	  85	      12.33	  83332-WHOLE_ORGANISM-integrated.txt
-B. henselae	437	  86	      9.2	  283166-Bhenselae_Albrethsen_2013.txt
-S. pombe	250	  90	      18.49	  4896-WHOLE_ORGANISM-integrated.txt
-S. cerevisiae	3	  96	      21.24	  4932-WHOLE_ORGANISM-integrated.txt
-R. norvegicus	93	  73	      14.59	  10116-WHOLE_ORGANISM-integrated.txt
-M. musculus	196	  89	      14.15	  10090-WHOLE_ORGANISM-integrated.txt
-H. sapiens	29	  87	      15.5	  9606-WHOLE_ORGANISM-integrated.txt
+###
+* E. coli 511145-WHOLE_ORGANISM-integrated.txt
+* M. tuberculosis	83332-WHOLE_ORGANISM-integrated.txt
+* B. henselae 283166-Bhenselae_Albrethsen_2013.txt
+* S. pombe	4896-WHOLE_ORGANISM-integrated.txt
+* S. cerevisiae	4932-WHOLE_ORGANISM-integrated.txt
+* R. norvegicus	10116-WHOLE_ORGANISM-integrated.txt
+* M. musculus	10090-WHOLE_ORGANISM-integrated.txt
+* H. sapiens	9606-WHOLE_ORGANISM-integrated.txt
 
 
+###
 Based on mapping as defined:
-Name	          ID 	        Type	     	Link
-E. coli	        up000000625	Prokaryote	https://www.uniprot.org/proteomes/UP000000625
-M. tuberculosis	up000001584	Prokaryote	https://www.uniprot.org/proteomes/UP000001584
-B. henselae	up000058422	Prokaryote	https://www.uniprot.org/proteomes/UP000058422
-S. pombe	up000002485	Eukaryote   	https://www.uniprot.org/proteomes/UP000002485
-S. cerevisiae	up000002311	Eukaryote   	https://www.uniprot.org/proteomes/UP000002311
-R. norvegicus	up000002494	Eukaryote	https://www.uniprot.org/proteomes/UP000000803
-M. musculus	up000000589	Eukaryote	https://www.uniprot.org/proteomes/UP000000589
-H. sapiens	up000005640	Eukaryote	https://www.uniprot.org/proteomes/UP000005640
+* E. coli	        up000000625	Prokaryote	https://www.uniprot.org/proteomes/UP000000625
+* M. tuberculosis	up000001584	Prokaryote	https://www.uniprot.org/proteomes/UP000001584
+* B. henselae	up000058422	Prokaryote	https://www.uniprot.org/proteomes/UP000058422
+* S. pombe	up000002485	Eukaryote   	https://www.uniprot.org/proteomes/UP000002485
+* S. cerevisiae	up000002311	Eukaryote   	https://www.uniprot.org/proteomes/UP000002311
+* R. norvegicus	up000002494	Eukaryote	https://www.uniprot.org/proteomes/UP000000803
+* M. musculus	up000000589	Eukaryote	https://www.uniprot.org/proteomes/UP000000589
+* H. sapiens	up000005640	Eukaryote	https://www.uniprot.org/proteomes/UP000005640
 
 
 To reproduce calculation, all repository including the data files needs to be downloaded. Jupiter Notebook free access software need to be installed to run the Protein_classification_abundance.ipynb file.
